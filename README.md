@@ -11,36 +11,37 @@
 
 ## Table of Contents
 
-- [[#Before You Begin]]
-- [[#Step 1 — BIOS / UEFI Setup]]
-- [[#Step 2 — Booting the Installer]]
-- [[#Step 3 — Pre-Installation Checks]]
-  - [[#3.1 Set a Readable Font]]
-  - [[#3.2 Verify Internet Connection]]
-  - [[#3.3 Connect to Wi-Fi (If Needed)]]
-  - [[#3.4 Wipe the Target Drive]]
-  - [[#3.5 Sync Packages and Keyring]]
-- [[#Step 4 — Running archinstall]]
-  - [[#4.1 Language]]
-  - [[#4.2 Locales]]
-  - [[#4.3 Mirrors]]
-  - [[#4.4 Disk Configuration]]
-  - [[#4.5 Swap]]
-  - [[#4.6 Bootloader]]
-  - [[#4.7 Kernels]]
-  - [[#4.8 Hostname]]
-  - [[#4.9 Authentication]]
-  - [[#4.10 Profile]]
-  - [[#4.11 Applications]]
-  - [[#4.12 Network Configuration]]
-  - [[#4.13 Additional Packages]]
-  - [[#4.14 Timezone]]
-  - [[#4.15 NTP (Time Sync)]]
-  - [[#4.16 Install]]
-- [[#Step 5 — Reboot]]
-- [[#Step 6 — Post-Installation]]
-- [[#Troubleshooting]]
-- [[#Resources]]
+## Table of Contents
+- [Before You Begin](#before-you-begin)
+- [Step 1 — BIOS / UEFI Setup](#step-1--bios--uefi-setup)
+- [Step 2 — Booting the Installer](#step-2--booting-the-installer)
+- [Step 3 — Pre-Installation Checks](#step-3--pre-installation-checks)
+  - [3.1 Set a Readable Font](#31-set-a-readable-font)
+  - [3.2 Verify Internet Connection](#32-verify-internet-connection)
+  - [3.3 Connect to Wi-Fi (If Needed)](#33-connect-to-wi-fi-if-needed)
+  - [3.4 Wipe the Target Drive](#34-wipe-the-target-drive)
+  - [3.5 Sync Packages and Keyring](#35-sync-packages-and-keyring)
+- [Step 4 — Running archinstall](#step-4--running-archinstall)
+  - [4.1 Language](#41-language)
+  - [4.2 Locales](#42-locales)
+  - [4.3 Mirrors](#43-mirrors)
+  - [4.4 Disk Configuration](#44-disk-configuration)
+  - [4.5 Swap](#45-swap)
+  - [4.6 Bootloader](#46-bootloader)
+  - [4.7 Kernels](#47-kernels)
+  - [4.8 Hostname](#48-hostname)
+  - [4.9 Authentication](#49-authentication)
+  - [4.10 Profile](#410-profile)
+  - [4.11 Applications](#411-applications)
+  - [4.12 Network Configuration](#412-network-configuration)
+  - [4.13 Additional Packages](#413-additional-packages)
+  - [4.14 Timezone](#414-timezone)
+  - [4.15 NTP (Time Sync)](#415-ntp-time-sync)
+  - [4.16 Install](#416-install)
+- [Step 5 — Reboot](#step-5--reboot)
+- [Step 6 — Post-Installation](#step-6--post-installation)
+- [Troubleshooting](#troubleshooting)
+- [Resources](#resources)
 
 ---
 
