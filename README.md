@@ -1,6 +1,8 @@
 
 <div align="center">
 
+# Arch Linux for Humans
+
 ### A clean, no-nonsense walkthrough from USB stick to a fully working desktop.
 
 **Written for humans. Not for people who memorize wikis at 3 AM.**
