@@ -12,8 +12,6 @@
 </div>
 
 ## Table of Contents
-
-## Table of Contents
 - [Before You Begin](#before-you-begin)
 - [Step 1 — BIOS / UEFI Setup](#step-1--bios--uefi-setup)
 - [Step 2 — Booting the Installer](#step-2--booting-the-installer)
