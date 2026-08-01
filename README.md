@@ -224,6 +224,8 @@ Inside gdisk, perform the following:
 3. Confirm with `Y` when prompted.
 4. Confirm again with `Y` to erase the MBR.
 
+![Wiping the target drive using gdisk](images/diskformating.png)
+
 
 The drive is now completely clean.
 
