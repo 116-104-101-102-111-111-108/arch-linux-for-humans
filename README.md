@@ -205,11 +205,11 @@ You will see output similar to this:
 
 ```
 NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINTS
-sda      8:0    0 465.8G  0 disk
-sdb      8:16   1  14.9G  0 disk
+sda      8:0    0 232.9G  0 disk
+sdb      8:16   1  14.8G  0 disk
 ```
 
-In this example, `sda` is the 465 GB internal drive (the target), and `sdb` is the 14.9 GB USB stick. **Do not wipe the USB.**
+In this example, `sda` is the 232.9 GB internal drive (the target), and `sdb` is the 14.8 GB USB stick. **Do not wipe the USB.**
 
 Once you have identified the correct drive, launch `gdisk`:
 
